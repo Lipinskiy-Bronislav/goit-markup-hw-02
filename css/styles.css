@@ -34,7 +34,10 @@ body {
 }
 
 .text-blue {
-color: #f4f4fd;
+    color:#2e2f42;
+}
+.text-sky {
+    color: #f4f4fd;
 }
 
 .nav-list {
